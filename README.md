@@ -4,8 +4,6 @@
 
 **Tech Instructor** at [@Rocketseat](https://rocketseat.com.br).
 
-
-<a href="https://twitch.tv/csorlandi"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"></a>
 <a href="https://linkedin.com/in/csorlandi"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/csorlandi"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://youtube.com/csorlandi"><img src="https://img.shields.io/badge/youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"></a>
