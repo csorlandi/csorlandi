@@ -19,8 +19,8 @@
   <li>🤝 Open for collaborations in Javascript Stack.</li>
 </ul>
 
-> “If you're offered a seat on a rocket ship, don't ask what seat! Just get on.”
-― Sheryl Sandberg
+> “Be who you needed when you were younger!”
+― Some Wise Guy
 
 ---
 
