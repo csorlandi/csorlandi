@@ -2,7 +2,7 @@
 
 <img align='right' src='https://media1.tenor.com/images/841aeb9f113999616d097b414c539dfd/tenor.gif?itemid=5368357' width='200'>
 
-**Tech Instructor** at [@Rocketseat](https://rocketseat.com.br).
+**Front-end Developer** at [@Dextra](https://dextra.com.br).
 
 <a href="https://linkedin.com/in/csorlandi"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/csorlandi"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
@@ -13,7 +13,7 @@
 <ul>
   <li>🧑‍💻 I'm a Javascript Developer from <b>São Paulo, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b>;</li>
   <li>🎙 Also a Live Coder at <a href="https://twitch.tv/csorlandi"><img src="https://image.flaticon.com/icons/svg/2111/2111668.svg" width="13"/> <b>twitch.tv/csorlandi</b></a>;</li>
-  <li>💾 Few tech that I enjoy working in are React Native, ReactJS, NodeJS, Vanilla JS, Git and Notion;</li>
+  <li>💾 Few tech that I enjoy working in are Javascript, React Native, ReactJS, Typescript, Git and Notion;;</li>
   <li>😍 Passionate about education and problem solution through programming;</li>
   <li>😊 Willing to contribute in opensource development projects;</li>
   <li>🤝 Open for collaborations in Javascript Stack.</li>
