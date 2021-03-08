@@ -13,7 +13,7 @@
 <ul>
   <li>🧑‍💻 I'm a Javascript Developer from <b>São Paulo, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b>;</li>
   <li>🎙 Also a Live Coder at <a href="https://twitch.tv/csorlandi"><img src="https://image.flaticon.com/icons/svg/2111/2111668.svg" width="13"/> <b>twitch.tv/csorlandi</b></a>;</li>
-  <li>💾 Few tech that I enjoy working in are Javascript, React Native, ReactJS, Typescript, Git and Notion;;</li>
+  <li>💾 Few tech that I enjoy working in are Javascript, React Native, ReactJS, Typescript, Git and Notion;</li>
   <li>😍 Passionate about education and problem solution through programming;</li>
   <li>😊 Willing to contribute in opensource development projects;</li>
   <li>🤝 Open for collaborations in Javascript Stack.</li>
