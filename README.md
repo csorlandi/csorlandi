@@ -2,7 +2,7 @@
 
 <img align='right' src='https://media1.tenor.com/images/841aeb9f113999616d097b414c539dfd/tenor.gif?itemid=5368357' width='200'>
 
-**Front-end Developer** at [@Dextra](https://dextra.com.br) | GloboPlay SmartTV Team.
+**Software Engineer** at [@Perfect Flight](https://perfectflight.com.br).
 
 <a href="https://linkedin.com/in/csorlandi"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/csorlandi"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
