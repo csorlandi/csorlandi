@@ -12,7 +12,7 @@
 
 <ul>
   <li>💻 ┇I'm a Javascript Developer from <b>São Paulo, <img src="https://cdn-icons-png.flaticon.com/512/330/330430.png" width="15"/> Brasil</b>;</li>
-  <li>🎙 ┇Also a Live Coder at <a href="https://twitch.tv/csorlandi"><img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504946.png?token=exp=1643842722~hmac=81cf5b6dad6be3fc26094be236d799fc" width="16"/> <b>twitch.tv/csorlandi</b></a>;</li>
+  <li>🎙 ┇Also a Live Coder at <a href="https://twitch.tv/csorlandi"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968819.png" width="15"/> <b>twitch.tv/csorlandi</b></a>;</li>
   <li>💾 ┇Few tech that I enjoy working in are Javascript, React Native, ReactJS, Typescript, Git and Notion;</li>
   <li>😍 ┇Passionate about education and problem solution through programming;</li>
   <li>😊 ┇Willing to contribute in opensource development projects;</li>
