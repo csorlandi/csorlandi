@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Claudio - a.k.a CsOrlandi</h1>
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm CsOrlandi
 
 <img align='right' src='https://media1.tenor.com/images/841aeb9f113999616d097b414c539dfd/tenor.gif?itemid=5368357' width='200'>
 
@@ -10,14 +10,13 @@
 <a href="https://instagram.com/cs.orlandi"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:claudiosorlandi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-<ul>
-  <li>💻 ┇I'm a Javascript Developer from <b>São Paulo, <img src="https://cdn-icons-png.flaticon.com/512/330/330430.png" width="15"/> Brasil</b>;</li>
-  <li>🎙 ┇Also a Live Coder at <a href="https://twitch.tv/csorlandi"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968819.png" width="15"/> <b>twitch.tv/csorlandi</b></a>;</li>
-  <li>💾 ┇Few tech that I enjoy working in are Javascript, React Native, ReactJS, Typescript, Git and Notion;</li>
-  <li>😍 ┇Passionate about education and problem solution through programming;</li>
-  <li>😊 ┇Willing to contribute in opensource development projects;</li>
-  <li>🤝 ┇Open for collaborations in Javascript Stack.</li>
-</ul>
+
+## 👨‍💻 About Me
+💻 ┇I'm a Javascript Developer from <b>São Paulo, <img src="https://cdn-icons-png.flaticon.com/512/330/330430.png" width="15"/> Brasil</b>;<br />
+🎤 ┇Also a Live Coder at <a href="https://twitch.tv/csorlandi"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968819.png" width="15"/> <b>twitch.tv/csorlandi</b></a>;<br />
+💾 ┇Few tech that I enjoy working in are ReactJS, React Native, Typescript, Git, GraphQL and Notion;<br />
+😍 ┇Passionate about education, challanges and solving problem with technology;<br />
+🎯 ┇Looking to contribute to as many open source projects as possible;<br /><br />
 
 > “Be who you needed when you were younger!”
 ― Some Wise Guy
@@ -51,7 +50,8 @@
 
 ---
 
-<p align = "center">
-  <img height="160" src = "https://github-readme-stats.vercel.app/api?username=csorlandi&show_icons=true&theme=algolia&line_height=27">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csorlandi&layout=compact&theme=algolia" />
+<p align="center">
+  <img width="47%" src = "https://github-readme-stats.vercel.app/api?username=csorlandi&show_icons=true&theme=algolia&line_height=27">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csorlandi&layout=compact&theme=algolia" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=csorlandi&theme=algolia" alt="#csorlandi" />
 </p>
