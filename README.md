@@ -1,7 +1,7 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm CsOrlandi
 
 <a href="https://app.daily.dev/csorlandi">
-  <img src="https://api.daily.dev/devcards/b03feab14c8243b88f6c88fe64d3388c.png?r=7iu" align="right" width="250" alt="Claudio Orlandi's Dev Card"/>
+  <img src="https://github.com/csorlandi/csorlandi/blob/master/devcard.svg" align="right" width="250" alt="Claudio Orlandi's Dev Card"/>
 </a>
 
 **Software Engineer** at [@Perfect Flight](https://perfectflight.com.br).
