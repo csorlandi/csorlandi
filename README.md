@@ -1,6 +1,8 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm CsOrlandi
 
-<img align='right' src='https://media1.tenor.com/images/841aeb9f113999616d097b414c539dfd/tenor.gif?itemid=5368357' width='200'>
+<a href="https://app.daily.dev/csorlandi">
+  <img src="https://api.daily.dev/devcards/b03feab14c8243b88f6c88fe64d3388c.png?r=7iu" align="right" width="250" alt="Claudio Orlandi's Dev Card"/>
+</a>
 
 **Software Engineer** at [@Perfect Flight](https://perfectflight.com.br).
 
@@ -23,6 +25,8 @@
 
 ---
 
+<img align='right' src='https://media1.tenor.com/images/841aeb9f113999616d097b414c539dfd/tenor.gif?itemid=5368357' width='250'>
+
 ## 🛠 Tech Stack
 
 <p>
@@ -41,8 +45,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
----
-
 ## 😇 My Github Stats:
 
 [![Visits Badge](https://badges.pufler.dev/visits/csorlandi/csorlandi?style=for-the-badge)](https://github.com/csorlandi/csorlandi)
@@ -53,5 +55,6 @@
 <p align="center">
   <img width="47%" src = "https://github-readme-stats.vercel.app/api?username=csorlandi&show_icons=true&theme=algolia&line_height=27">
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csorlandi&layout=compact&theme=algolia" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=csorlandi&theme=algolia" alt="#csorlandi" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=csorlandi&theme=algolia" alt="#csorlandi" /><br /><br />
+  
 </p>
