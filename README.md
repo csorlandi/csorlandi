@@ -1,6 +1,6 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm CsOrlandi
 
-**Software Engineer** at [@Arquivei](https://arquivei.com.br).
+**Frontend Engineer** at [@Dasa](https://dasa.com.br).
 
 ---
 
@@ -9,7 +9,6 @@
 🎤 ┇Also a Live Coder at <a href="https://twitch.tv/csorlandi"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968819.png" width="15"/> <b>twitch.tv/csorlandi</b></a>;<br />
 💾 ┇Few tech that I enjoy working in are ReactJS, React Native, Typescript, Git, GraphQL and Notion;<br />
 😍 ┇Passionate about education, challanges and solving problem with technology;<br />
-🎯 ┇Looking to contribute to as many open source projects as possible;<br />
 
 > “Be who you needed when you were younger!”
 ― Some Wise Guy
@@ -38,13 +37,13 @@
 
 ## 😇 My Github Stats:
 
-[![Visits Badge](https://badges.pufler.dev/visits/csorlandi/csorlandi?style=for-the-badge)](https://github.com/csorlandi/csorlandi)
-[![Repos Badge](https://badges.pufler.dev/repos/csorlandi?style=for-the-badge)](https://github.com/csorlandi?tab=repositories)
+[![Visits Badge](https://komarev.com/ghpvc/?username=csorlandi&style=for-the-badge)](https://github.com/csorlandi/csorlandi)
+[![Repos Badge](https://badges.strrl.dev/repos/csorlandi?style=for-the-badge&color=007ACC)](https://github.com/csorlandi?tab=repositories)
 
 ---
 
 <p align="center">
-  <img width="47%" src = "https://github-readme-stats.vercel.app/api?username=csorlandi&show_icons=true&theme=algolia&line_height=27">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csorlandi&layout=compact&theme=algolia" />
+  <img width="42%" src = "https://github-readme-stats.vercel.app/api?username=csorlandi&count_private=true&show_icons=true&theme=algolia&line_height=27">
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csorlandi&langs_count=3&layout=compact&theme=algolia" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=csorlandi&theme=algolia" alt="#csorlandi" />
 </p>
