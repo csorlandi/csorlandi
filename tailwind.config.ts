@@ -6,7 +6,16 @@ const config: Config = {
     "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
     "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
-  theme: {},
+  theme: {
+    extend: {
+      backgroundColor: {
+        "dark-high-contrast": "#18181b"
+      },
+      colors: {
+        "dark-high-contrast": "rgba(244 244 245)"
+      }
+    }
+  },
   plugins: [],
 };
 export default config;
