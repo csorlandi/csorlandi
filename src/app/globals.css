@@ -8,6 +8,6 @@
   }
 
   .nav-item-active {
-    @apply bg-white text-gray-900 hover:bg-white/70 hover:text-gray-900;
+    @apply bg-white text-gray-900 hover:bg-white/75 hover:text-gray-900;
   }
 }
