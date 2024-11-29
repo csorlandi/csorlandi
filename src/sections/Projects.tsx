@@ -2,6 +2,7 @@ import darkSaasLandingPage from "@/assets/images/dark-saas-landing-page.png";
 import lightSaasLandingPage from "@/assets/images/light-saas-landing-page.png";
 import aiStartupLandingPage from "@/assets/images/ai-startup-landing-page.png";
 import Image from "next/image";
+import CheckCircleIcon from '@/assets/icons/check-circle.svg';
 
 const portfolioProjects = [
   {
@@ -54,17 +55,21 @@ export const ProjectsSection = () => {
       <p className="text-center text-white/60 mt-4">See how I transformed concepts into engaging digital experiences.</p>
       <div className="flex flex-col mt-10">
         {portfolioProjects.map(project => (
-          <article key={project.title} className="bg-gray-800 rounded-3xl relative overflow-hidden z-0 after:z-10 after:content-[''] after:absolute after:inset-0 after:outline-2 after:outline after:-outline-offset-2 after:rounded-3xl after:outline-white/20">
-            <div>
-              <span>{project.company}</span>
-              <span>{project.year}</span>
+          <article key={project.title} className="bg-gray-800 rounded-3xl relative overflow-hidden z-0 after:z-10 after:content-[''] after:absolute after:inset-0 after:outline-2 after:outline after:-outline-offset-2 after:rounded-3xl after:outline-white/20 p-8">
+            <div className="flex">
+              <div className="bg-gradient-to-r from-emerald-300 to-sky-400 inline-flex font-bold uppercase tracking-widest text-sm gap-2 text-transparent bg-clip-text">
+                <span>{project.company}</span>
+                <span>&bull;</span>
+                <span>{project.year}</span>
+              </div>
             </div>
-            <h3>{project.title}</h3>
-            <hr />
+            <h3 className="font-serif text-2xl mt-2">{project.title}</h3>
+            <hr className="border-t-2 border-white/5 mt-4" />
             <ul>
               {project.results.map(result => (
                 <li key={result.title}>
-                  {result.title}
+                  <CheckCircleIcon />
+                  <span>{result.title}</span>
                 </li>
               ))}
             </ul>
