@@ -13,7 +13,9 @@ export const HeroSection = () => {
       <div className="container flex flex-col items-center md:max-w-xl">
         <Image src={memojiImage} className="size-24" alt="Person peeking from behind laptop" />
         <div className="bg-gray-950 border border-gray-800 px-4 py-1.5 inline-flex items-center gap-4 rounded-lg">
-          <span className="bg-green-500 size-2.5 rounded-full" />
+          <span className="bg-green-500 size-2.5 rounded-full relative">
+            <span className="bg-green-500 absolute inset-0 rounded-full animate-ping-large" />
+          </span>
           <p className="text-sm font-medium">Available for new projects</p>
         </div>
         <h1 className="font-serif text-3xl md:text-5xl text-center mt-8 tracking-wide">Building Exceptional User Experiences</h1>
