@@ -39,11 +39,20 @@ const config: Config = {
           '100%': {
             transform: 'translateX(-50%)'
           }
+        },
+        'reverse-markee': {
+          '0%': {
+            transform: 'translateX(-50%)'
+          },
+          '100%': {
+            transform: 'translateX(0%)'
+          }
         }
       },
       animation: {
         'ping-large': 'ping-large 1s ease-in-out infinite',
-        'markee': 'markee 1s linear infinite'
+        'markee': 'markee 1s linear infinite',
+        'reverse-markee': 'reverse-markee 1s linear infinite'
       }
     }
   },
