@@ -31,10 +31,19 @@ const config: Config = {
             transform: 'scale(3)',
             opacity: '0',
           }
+        },
+        'markee': {
+          '0': {
+            transform: 'translateX(0%)'
+          },
+          '100%': {
+            transform: 'translateX(-50%)'
+          }
         }
       },
       animation: {
-        'ping-large': 'ping-large 1s cubic-bezier(0, 0, 0.2, 1) infinite',
+        'ping-large': 'ping-large 1s ease-in-out infinite',
+        'markee': 'markee 1s linear infinite'
       }
     }
   },
