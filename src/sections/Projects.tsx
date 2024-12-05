@@ -1,4 +1,5 @@
 import Image from 'next/image';
+import Link from 'next/link';
 
 import darkSaasLandingPage from '@/assets/images/dark-saas-landing-page.png';
 import lightSaasLandingPage from '@/assets/images/light-saas-landing-page.png';
@@ -18,7 +19,7 @@ const portfolioProjects = [
       { title: 'Improved site speed by 50%' },
       { title: 'Increased mobile traffic by 35%' },
     ],
-    link: 'www.csorlandi.com',
+    link: '/',
     image: darkSaasLandingPage,
   },
   {
@@ -30,7 +31,7 @@ const portfolioProjects = [
       { title: 'Expanded customer reach by 35%' },
       { title: 'Increased brand awareness by 15%' },
     ],
-    link: 'www.csorlandi.com',
+    link: '/',
     image: lightSaasLandingPage,
   },
   {
@@ -42,7 +43,7 @@ const portfolioProjects = [
       { title: 'Improved site speed by 50%' },
       { title: 'Increased mobile traffic by 35%' },
     ],
-    link: 'www.csorlandi.com',
+    link: '/',
     image: aiStartupLandingPage,
   },
 ];
@@ -87,12 +88,12 @@ export const ProjectsSection = () => {
                       </li>
                     ))}
                   </ul>
-                  <a href={project.link}>
+                  <Link href={project.link}>
                     <button className="mt-8 inline-flex h-12 w-full items-center justify-center gap-2 rounded-xl bg-white px-6 font-semibold text-gray-950 md:w-auto">
                       <span>Visit Live Site</span>
                       <ArrowUpRightIcon className="size-4" />
                     </button>
-                  </a>
+                  </Link>
                 </div>
                 <div className="relative">
                   <Image
