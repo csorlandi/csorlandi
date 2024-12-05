@@ -61,19 +61,19 @@ const hobbies = [
   {
     title: 'Music',
     emoji: '🎶',
-    top: '15%',
-    left: '40%',
-  },
-  {
-    title: 'Fitness',
-    emoji: '🏋️',
     top: '65%',
     left: '5%',
   },
   {
     title: 'Reading',
     emoji: '📖',
-    top: '70%',
+    top: '65%',
+    left: '75%',
+  },
+  {
+    title: 'Drag me',
+    emoji: '👆',
+    top: '55%',
     left: '60%',
   },
 ];
@@ -119,7 +119,6 @@ export const AboutSection = () => {
         <div className="grid grid-cols-1 gap-6 md:grid-cols-5 md:gap-8 lg:grid-cols-3">
           <Card className="flex h-[320px] flex-col md:col-span-3 lg:col-span-2">
             <CardHeader
-              className=""
               description="Explore my interests and hobbies beyond the digital realm."
               title="Beyond the Code"
             />
@@ -128,7 +127,7 @@ export const AboutSection = () => {
                 <motion.div
                   key={hobby.title}
                   drag
-                  className="absolute inline-flex gap-2 rounded-full bg-gradient-to-r from-emerald-300 to-sky-400 px-6 py-1.5"
+                  className="absolute inline-flex cursor-pointer gap-2 rounded-full bg-gradient-to-r from-emerald-300 to-sky-400 px-6 py-1.5"
                   dragConstraints={dragContainerRef}
                   style={{
                     left: hobby.left,
