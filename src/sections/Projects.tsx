@@ -18,7 +18,7 @@ const portfolioProjects = [
       { title: "Improved site speed by 50%" },
       { title: "Increased mobile traffic by 35%" },
     ],
-    link: "https://youtu.be/4k7IdSLxh6w",
+    link: "https://csorlandi.dev",
     image: darkSaasLandingPage,
   },
   {
@@ -30,7 +30,7 @@ const portfolioProjects = [
       { title: "Expanded customer reach by 35%" },
       { title: "Increased brand awareness by 15%" },
     ],
-    link: "https://youtu.be/7hi5zwO75yc",
+    link: "https://csorlandi.dev",
     image: lightSaasLandingPage,
   },
   {
@@ -42,13 +42,13 @@ const portfolioProjects = [
       { title: "Improved site speed by 50%" },
       { title: "Increased mobile traffic by 35%" },
     ],
-    link: "https://youtu.be/Z7I5uSRHMHg",
+    link: "https://csorlandi.dev",
     image: aiStartupLandingPage,
   },
 ];
 
 export const ProjectsSection = () => {
-  return <section className="pb-16 lg:py-24">
+  return <section id="projects" className="pb-16 lg:py-24">
     <div className="container">
       <SectionHeader title="Featured Projects" eyebrow="Real-world Results" description="See how I transformed concepts into engaging digital experiences." />
       <div className="flex flex-col mt-10 gap-20 md:mt-20">

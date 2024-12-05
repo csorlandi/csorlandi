@@ -46,34 +46,22 @@ const toolboxItems = [
 
 const hobbies = [
   {
-    title: 'Painting',
-    emoji: '🎨',
+    title: 'Skating',
+    emoji: '🛼',
     top: '5%',
     left: '5%',
   },
   {
-    title: 'Photography',
-    emoji: '📸',
-    top: '5%',
-    left: '50%',
-  },
-  {
-    title: 'Hiking',
-    emoji: '🥾',
-    top: '40%',
-    left: '35%',
-  },
-  {
     title: 'Gaming',
     emoji: '🎮',
-    top: '35%',
-    left: '10%',
+    top: '10%',
+    left: '75%',
   },
   {
     title: 'Music',
     emoji: '🎶',
-    top: '45%',
-    left: '70%',
+    top: '15%',
+    left: '40%',
   },
   {
     title: 'Fitness',
@@ -85,7 +73,7 @@ const hobbies = [
     title: 'Reading',
     emoji: '📖',
     top: '70%',
-    left: '45%',
+    left: '60%',
   },
 ]
 
@@ -93,7 +81,7 @@ export const AboutSection = () => {
   const dragContainerRef = useRef(null);
 
   return (
-    <section className="py-16 lg:py-24 container">
+    <section id="about" className="py-16 lg:py-24 container">
       <SectionHeader title="A Glimpse Into My World" eyebrow="About me" description="Learn more about who I am, what I do, and what inspires me." />
       <div className="mt-20 flex flex-col gap-6 md:gap-8">
         <div className="grid grid-cols-1 md:grid-cols-5 lg:grid-cols-3 gap-6 md:gap-8">
@@ -142,12 +130,14 @@ export const AboutSection = () => {
             </div>
           </Card>
           <Card className="h-[320px] p-0 relative md:col-span-2 lg:col-span-1">
-            <Image src={MapImage} alt="map" className="h-full w-full object-cover" />
-            <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 size-20 rounded-full after:content-[''] after:absolute after:inset-0 after:outline after:outline-2 after:-outline-offset-2 after:rounded-full after:outline-gray-950/30">
-            <div className="absolute inset-0 rounded-full bg-gradient-to-r from-emerald-300 to-sky-400 -z-20 animate-ping [animation-duration:2s]" />
-            <div className="absolute inset-0 rounded-full bg-gradient-to-r from-emerald-300 to-sky-400 -z-10" />
-              <Image src={smileMemoji} alt="smile memoji" className="size-20" />
-            </div>
+            <a href="https://maps.app.goo.gl/B4xXT5eqRrbDLKHt5" target="_blank">
+              <Image src={MapImage} alt="map" className="h-full w-full object-cover" />
+              <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 size-20 rounded-full after:content-[''] after:absolute after:inset-0 after:outline after:outline-2 after:-outline-offset-2 after:rounded-full after:outline-gray-950/30">
+              <div className="absolute inset-0 rounded-full bg-gradient-to-r from-emerald-300 to-sky-400 -z-20 animate-ping [animation-duration:2s]" />
+              <div className="absolute inset-0 rounded-full bg-gradient-to-r from-emerald-300 to-sky-400 -z-10" />
+                <Image src={smileMemoji} alt="smile memoji" className="size-20" />
+              </div>
+            </a>
           </Card>
         </div>
       </div>
