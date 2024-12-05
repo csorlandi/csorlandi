@@ -18,7 +18,7 @@ const portfolioProjects = [
       { title: "Improved site speed by 50%" },
       { title: "Increased mobile traffic by 35%" },
     ],
-    link: "https://csorlandi.dev",
+    link: "www.csorlandi.com",
     image: darkSaasLandingPage,
   },
   {
@@ -30,7 +30,7 @@ const portfolioProjects = [
       { title: "Expanded customer reach by 35%" },
       { title: "Increased brand awareness by 15%" },
     ],
-    link: "https://csorlandi.dev",
+    link: "www.csorlandi.com",
     image: lightSaasLandingPage,
   },
   {
@@ -42,7 +42,7 @@ const portfolioProjects = [
       { title: "Improved site speed by 50%" },
       { title: "Increased mobile traffic by 35%" },
     ],
-    link: "https://csorlandi.dev",
+    link: "www.csorlandi.com",
     image: aiStartupLandingPage,
   },
 ];
