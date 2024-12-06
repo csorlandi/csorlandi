@@ -15,8 +15,9 @@ const calistoga = Calistoga({
 });
 
 export const metadata: Metadata = {
-  title: 'My Portfolio',
-  description: 'Created with the help of the universe!',
+  title: 'Claudio Orlandi | Portfolio',
+  description:
+    'Portfolio of Claudio Orlandi, a Frontend Developer focused on crafting responsive, interactive, and high-performance user experiences. Explore my projects and skills!',
 };
 
 export default function RootLayout({
